@@ -1,7 +1,7 @@
 /**
- * Author: Elijah Lundstrom
+ * Author: Elijah Lundstrom 
  * Date: 2019/08/26
- *
+ * Collaborator Abdulkhalim Abdullodzhanov
  * A simple hello world program in C
  *
  */
